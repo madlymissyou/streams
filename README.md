@@ -1,3 +1,3 @@
-# streams
+# Atreams AI
 
-Game Theory AOC
+Game Theory AOC (a.k.a. GTA)
