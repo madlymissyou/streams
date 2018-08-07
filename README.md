@@ -2,4 +2,4 @@
 
 Game Theory AOC (a.k.a. GTA)
 
-{% youtube https://www.youtube.com/watch?v=G33WiEktUo8 %}
+{% include image.html url='{{"https://dummyimage.com/600x300/ffd9e5/ffffff&text=like+this+yo"}}' alt='Image Alt 텍스트' %}
