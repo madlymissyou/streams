@@ -2,4 +2,4 @@
 
 Game Theory AOC (a.k.a. GTA)
 
-{ % youtube https://www.youtube.com/watch?v=G33WiEktUo8 % }
+{% youtube https://www.youtube.com/watch?v=G33WiEktUo8 %}
